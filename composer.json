@@ -1,12 +1,14 @@
 {
   "name": "skulich/laravel-markable",
-  "description": "Laravel Markable is a ...",
+  "description": "Laravel Markable is a simple and flexible interaction system for Laravel. Add likes, bookmarks, favorites, reactions, and custom marks to any Eloquent model.",
   "keywords": [
     "laravel",
-    "api",
-    "auth",
-    "token",
-    "middleware"
+    "markable",
+    "marks",
+    "likes",
+    "bookmarks",
+    "favorites",
+    "reactions"
   ],
   "type": "library",
   "license": "MIT",
