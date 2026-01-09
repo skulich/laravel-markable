@@ -14,7 +14,17 @@
 
 [//]: # (![Total Downloads]&#40;https://img.shields.io/packagist/dt/skulich/laravel-markable.svg&#41;)
 
-**Laravel Markable** is a powerful polymorphic tagging system that allows users to "mark" any content. Whether it's a simple like, a bookmark with notes, or a complex reaction, Markable handles it with elegance using PHP 8 attributes.
+**Laravel Markable** is a powerful polymorphic tagging system that allows users to "mark" any content. Whether it's a
+simple like, a bookmark with notes, or a complex reaction, Markable handles it elegantly using PHP 8 attributes.
+
+Integrate **likes, bookmarks, favorites, reactions**, and any custom marks into your Laravel application in
+minutes — using a single, robust polymorphic solution focused on developer experience and performance.
+
+### Key Features
+- **Polymorphic Relationships:** Mark any Eloquent model (Posts, Comments, Users, etc.).
+- **PHP 8 Attributes:** Define allowed interactions directly in the model header.
+- **Counter Cache:** Automatically tracks counts (e.g., `likes_count`) for instant display.
+- **JSON Metadata:** Store notes or extra data with each interaction.
 
 
 # Table of contents
