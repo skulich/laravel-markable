@@ -14,7 +14,7 @@
 
 [//]: # (![Total Downloads]&#40;https://img.shields.io/packagist/dt/skulich/laravel-markable.svg&#41;)
 
-**Laravel Markable** is a ...
+**Laravel Markable** is a powerful polymorphic tagging system that allows users to "mark" any content. Whether it's a simple like, a bookmark with notes, or a complex reaction, Markable handles it with elegance using PHP 8 attributes.
 
 
 # Table of contents
