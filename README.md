@@ -42,6 +42,12 @@ Install the package via Composer.
 
 ```shell
 composer require skulich/laravel-markable
+
+# Publish config & migration
+php artisan vendor:publish --provider="SKulich\Markable\MarkableServiceProvider"
+
+# Run migrations
+php artisan migrate
 ```
 
 ## Usage
